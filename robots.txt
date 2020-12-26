@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://shop.aag.solutions/sitemap_index.xmll
+Sitemap: https://shop.aag.solutions/sitemap_index.xmlla
