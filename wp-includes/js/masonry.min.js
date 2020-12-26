@@ -1,4 +1,4 @@
-/*! This file is auto-generated */
+﻿/*! This file is auto-generated */
 /*!
  * Masonry PACKAGED v4.2.2
  * Cascading grid layout library
