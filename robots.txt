@@ -1,0 +1,5 @@
+﻿User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://shop.aag.solutions/sitemap_index.xml
